@@ -7,7 +7,13 @@ Install dependencies
 
     lein deps
 
+Compile classes
+
+    lein compile
+
 Start server
 
     lein ring server
 
+or
+    lein run
