@@ -17,3 +17,13 @@ Start server
 
 or
     lein run
+
+# Niceties
+
+Plugin for running nailgun server for VimClojure
+
+    lein plugin install org.clojars.ibdknox/lein-nailgun 1.1.1
+
+start with
+
+    lein nailgun
